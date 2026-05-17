@@ -1,0 +1,12 @@
+# root .gitignore
+#echo "backend/.env" >> ../.gitignore
+#echo "backend/venv/" >> ../.gitignore
+#echo "__pycache__/" >> ../.gitignore
+#echo "*.pyc" >> ../.gitignore
+
+backend/venv/
+frontend/node_modules/
+__pycache__/
+.env
+*.pyc
+.DS_Store
