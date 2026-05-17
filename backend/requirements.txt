@@ -26,11 +26,3 @@ starlette==0.44.0
 tqdm==4.67.3
 typing-extensions==4.13.2
 uvicorn==0.33.0
-fastapi
-uvicorn
-sqlalchemy
-pymysql
-python-dotenv
-openai
-pydantic
-cryptography
